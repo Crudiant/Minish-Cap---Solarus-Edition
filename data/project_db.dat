@@ -1,0 +1,523 @@
+map{ id = "Area 02 - HyruleTown/02_00", description = "Area 02 - HyruleTown" }
+map{ id = "Area 02 - HyruleTown/15_00", description = "Area 15 - PicoriFestival" }
+map{ id = "Area 02 - HyruleTown/Swiftblad" }
+map{ id = "Area 03 - HyruleField/03_00" }
+map{ id = "Area 03 - HyruleField/03_01" }
+map{ id = "Area 03 - HyruleField/03_02" }
+map{ id = "Area 03 - HyruleField/03_03" }
+map{ id = "Area 03 - HyruleField/03_04" }
+map{ id = "Area 03 - HyruleField/03_05" }
+map{ id = "Area 03 - HyruleField/03_06" }
+map{ id = "Area 03 - HyruleField/03_07" }
+map{ id = "Area 03 - HyruleField/03_08" }
+map{ id = "Area 03 - HyruleField/03_09" }
+map{ id = "Area 03 - HyruleField/HyruleFields" }
+map{ id = "Area 03 - HyruleField/SmithHouse" }
+map{ id = "Area 06 - MountCrenel/1A_00", description = "Area 1A - MountCrenel" }
+map{ id = "Area 06 - MountCrenel/MountCrenel" }
+map{ id = "MinishWoods/DeepWoodShrine" }
+map{ id = "VielFalls" }
+
+tileset{ id = "dungeon/2C", description = "2C" }
+tileset{ id = "dungeon/34", description = "34" }
+tileset{ id = "dungeon/36", description = "36" }
+tileset{ id = "dungeon/37", description = "37" }
+tileset{ id = "dungeon/41", description = "41" }
+tileset{ id = "dungeon/45", description = "45" }
+tileset{ id = "dungeon/Cave-CastorWilds", description = "Cave - Castor Wilds" }
+tileset{ id = "dungeon/Cave-HyruleCastleGarden", description = "Cave - Hyrule Castle Garden" }
+tileset{ id = "dungeon/Cave-HyruleField", description = "Cave - Hyrule Field" }
+tileset{ id = "dungeon/Cave-HyruleTown", description = "Cave - Hyrule Town" }
+tileset{ id = "dungeon/Cave-MinishWoods", description = "Cave - Minish Woods" }
+tileset{ id = "dungeon/Cave-MountCrenel", description = "Cave - Mount Crenel" }
+tileset{ id = "dungeon/Cave-VeilFalls", description = "Cave - Veil Falls" }
+tileset{ id = "dungeon/CaveOfFlames-1", description = "Cave of Flames - 1" }
+tileset{ id = "dungeon/CaveOfFlames-2", description = "Cave of Flames - 2" }
+tileset{ id = "dungeon/DarkHyruleCastle-1", description = "Dark Hyrule Castle - 1" }
+tileset{ id = "dungeon/DarkHyruleCastle-2", description = "Dark Hyrule Castle - 2" }
+tileset{ id = "dungeon/DarkHyruleCastle-3", description = "Dark Hyrule Castle - 3" }
+tileset{ id = "dungeon/DarkHyruleCastle-4", description = "Dark Hyrule Castle - 4" }
+tileset{ id = "dungeon/DarkHyruleCastle-5", description = "Dark Hyrule Castle - 5" }
+tileset{ id = "dungeon/DarkHyruleCastle-6", description = "Dark Hyrule Castle - 6" }
+tileset{ id = "dungeon/DeepwoodShrine-1", description = "Deepwood Shrine - 1" }
+tileset{ id = "dungeon/DeepwoodShrine-2", description = "Deepwood Shrine - 2" }
+tileset{ id = "dungeon/ElementalSanctuary", description = "Elemental Sanctuary" }
+tileset{ id = "dungeon/FortressOfWinds", description = "Fortress of Winds" }
+tileset{ id = "dungeon/GoronCave", description = "Goron Cave" }
+tileset{ id = "dungeon/GreatFairyFountain-MinishWoods", description = "Great Fairy Fountain - Minish Woods" }
+tileset{ id = "dungeon/GreatFairyFountain-MountCrenel", description = "Great Fairy Fountain - Mount Crenel" }
+tileset{ id = "dungeon/GreatFairyFountain-RoyalValley", description = "Great Fairy Fountain - Royal Valley" }
+tileset{ id = "dungeon/HyruleCastle", description = "Hyrule Castle" }
+tileset{ id = "dungeon/Mazaal", description = "Mazaal" }
+tileset{ id = "dungeon/MinishDoor", description = "Minish Door" }
+tileset{ id = "dungeon/PalaceOfWinds", description = "Palace of Winds" }
+tileset{ id = "dungeon/RoyalCrypt", description = "Royal Crypt" }
+tileset{ id = "dungeon/TempleOfDroplets", description = "Temple of Droplets" }
+tileset{ id = "inside/24", description = "24" }
+tileset{ id = "inside/27-00", description = "27-00" }
+tileset{ id = "inside/27-01", description = "27-01" }
+tileset{ id = "inside/27-03", description = "27-03" }
+tileset{ id = "inside/27-05", description = "27-05" }
+tileset{ id = "inside/27-06", description = "27-06" }
+tileset{ id = "inside/38", description = "38" }
+tileset{ id = "inside/Dojo-Grayblade", description = "Dojo - Grayblade" }
+tileset{ id = "inside/Dojo-Grimblade", description = "Dojo - Grimblade" }
+tileset{ id = "inside/Dojo-Scarblade", description = "Dojo - Scarblade" }
+tileset{ id = "inside/Dojo-Splitblade", description = "Dojo - Splitblade" }
+tileset{ id = "inside/Dojo-Swiftblade", description = "Dojo - Swiftblade" }
+tileset{ id = "inside/Dojo-Waveblade", description = "Dojo - Waveblade" }
+tileset{ id = "inside/House-Type1", description = "House - Type1" }
+tileset{ id = "inside/House-Type2", description = "House - Type2" }
+tileset{ id = "inside/House-Type3", description = "House - Type3" }
+tileset{ id = "inside/House-Type4", description = "House - Type4" }
+tileset{ id = "inside/House-Type5", description = "House - Type5" }
+tileset{ id = "inside/Melari'sMines", description = "Melari's Mines" }
+tileset{ id = "outside/CastorWilds", description = "Castor Wilds" }
+tileset{ id = "outside/CloudTops", description = "Cloud Tops" }
+tileset{ id = "outside/HyruleCastleGarden", description = "Hyrule Castle Garden" }
+tileset{ id = "outside/HyruleField", description = "Hyrule Field" }
+tileset{ id = "outside/HyruleTown", description = "Hyrule Town" }
+tileset{ id = "outside/LakeHylia", description = "Lake Hylia" }
+tileset{ id = "outside/MinishWoods", description = "Minish Woods" }
+tileset{ id = "outside/MountCrenel", description = "Mount Crenel" }
+tileset{ id = "outside/RoyalValley", description = "Royal Valley" }
+tileset{ id = "outside/VeilFalls", description = "Veil Falls" }
+tileset{ id = "outside/WindRuins", description = "Wind Ruins" }
+tileset{ id = "temp", description = "temporary" }
+tileset{ id = "unknown/0D", description = "0D" }
+tileset{ id = "unknown/11-00", description = "11-00" }
+tileset{ id = "unknown/11-01", description = "11-01" }
+tileset{ id = "unknown/11-02", description = "11-02" }
+tileset{ id = "unknown/12-00", description = "12-00" }
+tileset{ id = "unknown/12-02", description = "12-02" }
+tileset{ id = "unknown/12-03", description = "12-03" }
+tileset{ id = "unknown/1A", description = "1A" }
+tileset{ id = "unknown/2E", description = "2E" }
+tileset{ id = "unknown/4A", description = "4A" }
+tileset{ id = "unknown/59", description = "59" }
+tileset{ id = "unknown/MinishVillage01-00", description = "Minish Village 01-00" }
+tileset{ id = "unknown/MinishVillage01-01", description = "Minish Village 01-01" }
+tileset{ id = "unknown/TempleOfDropletsEntrance", description = "Temple of Droplets - Entrance" }
+tileset{ id = "unknown/TowerOfWindsTop", description = "Tower of Winds - Top" }
+
+sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
+sprite{ id = "entities/arrow", description = "Arrow" }
+sprite{ id = "entities/block", description = "Block" }
+sprite{ id = "entities/bomb", description = "Bomb" }
+sprite{ id = "entities/chest", description = "Chest" }
+sprite{ id = "entities/crystal", description = "Crystal" }
+sprite{ id = "entities/crystal_block", description = "Crystal block" }
+sprite{ id = "entities/explosion", description = "Explosion" }
+sprite{ id = "entities/fire", description = "Fire" }
+sprite{ id = "entities/hookshot", description = "Hookshot" }
+sprite{ id = "entities/items", description = "Items" }
+sprite{ id = "entities/shadow", description = "required" }
+sprite{ id = "entities/solid_switch", description = "Solid switch" }
+sprite{ id = "entities/star", description = "Star" }
+sprite{ id = "entities/switch", description = "Switch" }
+sprite{ id = "hero/ground1", description = "Grass under hero" }
+sprite{ id = "hero/ground2", description = "Shallow water under hero" }
+sprite{ id = "hero/shield1", description = "Hero shield 1" }
+sprite{ id = "hero/sword1", description = "Hero sword 1" }
+sprite{ id = "hero/sword_stars1", description = "Hero sword stars 1" }
+sprite{ id = "hero/trail", description = "Hero trail" }
+sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
+sprite{ id = "hero/tunic1.capless", description = "Hero tunic 1 Capless" }
+sprite{ id = "menus/solarus_logo", description = "Menu: Solarus logo" }
+sprite{ id = "temp/temp" }
+
+music{ id = "01 Title Screen", description = "Title Screen" }
+music{ id = "02 File Select", description = "File Select" }
+music{ id = "03 Introduction", description = "Introduction" }
+music{ id = "04 Princess Zelda", description = "Princess Zelda" }
+music{ id = "05 Festival Outskirts", description = "Festival Outskirts" }
+music{ id = "06 Picori Festival", description = "Picori Festival" }
+music{ id = "07 King Daltus", description = "King Daltus" }
+music{ id = "08 Vaati's Theme", description = "Vaati's Theme" }
+music{ id = "09 Vaati Attacks", description = "Vaati Attacks" }
+music{ id = "10 Hyrule Castle (w Intro)", description = "Hyrule Castle (w Intro)" }
+music{ id = "11 Hyrule Field", description = "Hyrule Field" }
+music{ id = "12 Minish Woods", description = "Minish Woods" }
+music{ id = "13 The Minish Cap", description = "The Minish Cap" }
+music{ id = "14 Danger", description = "Danger" }
+music{ id = "15 The Journey Begins", description = "The Journey Begins" }
+music{ id = "16 Minish Village", description = "Minish Village" }
+music{ id = "17 Inside the House", description = "Inside the House" }
+music{ id = "18 Deepwood Shrine", description = "Deepwood Shrine" }
+music{ id = "19 Mini-Boss", description = "Mini-Boss" }
+music{ id = "20 Boss", description = "Boss" }
+music{ id = "21 Element Appears", description = "Element Appears" }
+music{ id = "22 Element Received", description = "Element Received" }
+music{ id = "23 Fairy Fountain", description = "Fairy Fountain" }
+music{ id = "24 Hyrule Town", description = "Hyrule Town" }
+music{ id = "25 Cucco Chase", description = "Cucco Chase" }
+music{ id = "26 Training", description = "Training" }
+music{ id = "27 Training Completen", description = "Training Complete" }
+music{ id = "28 Mt. Crenel", description = "Mt. Crenel" }
+music{ id = "29 Cave", description = "Cave" }
+music{ id = "30 Great Fairy Fountain", description = "Great Fairy Fountain" }
+music{ id = "31 Mt. Crenel Summit", description = "Mt. Crenel Summit" }
+music{ id = "32 Cave of Flames", description = "Cave of Flames" }
+music{ id = "33 Game Over", description = "Game Over" }
+music{ id = "34 Elemental Sanctuary", description = "Elemental Sanctuary" }
+music{ id = "35 Flashback", description = "Flashback" }
+music{ id = "36 Royal Orders (Cave 2)", description = "Royal Orders (Cave 2)" }
+music{ id = "37 Castor Wilds", description = "Castor Wilds" }
+music{ id = "38 Malon", description = "Malon" }
+music{ id = "39 Syrup the Witch", description = "Syrup the Witch" }
+music{ id = "40 Wind Ruins", description = "Wind Ruins" }
+music{ id = "41 Fortress of Winds", description = "Fortress of Winds" }
+music{ id = "42 Ocarina of Wind", description = "Ocarina of Wind" }
+music{ id = "43 Into the Skies", description = "Into the Skies" }
+music{ id = "44 Temple of Droplets", description = "Temple of Droplets" }
+music{ id = "45 Secret Tunnel", description = "Secret Tunnel" }
+music{ id = "46 Royal Valley", description = "Royal Valley" }
+music{ id = "47 Royal Crypt", description = "Royal Crypt" }
+music{ id = "48 Cloud Tops", description = "Cloud Tops" }
+music{ id = "49 Palace of Winds", description = "Palace of Winds" }
+music{ id = "50 Hurry!", description = "Hurry!" }
+music{ id = "51 Dark Hyrule Castle", description = "51 Dark Hyrule Castle" }
+music{ id = "52 Vaati Battle", description = "Vaati Battle" }
+music{ id = "53 Zelda Awakens", description = "Zelda Awakens" }
+music{ id = "54 Vaati's Wrath", description = "Vaati's Wrath" }
+music{ id = "55 The Journey Ends", description = "The Journey Ends" }
+music{ id = "56 A Kingdom Restored", description = "A Kingdom Restored" }
+music{ id = "57 Credits", description = "Credits" }
+music{ id = "58 Get Item", description = "Get Item" }
+music{ id = "59 Secret Found", description = "Secret Found" }
+music{ id = "60 Special Secret Found", description = "Special Secret Found" }
+music{ id = "93 Link to the Past Title (Unused)", description = "Link to the Past Title" }
+music{ id = "95 Get Small Item (Unused)", description = "95 Get Small Item" }
+music{ id = "96 Discovery (Unused)", description = "Discovery" }
+
+sound{ id = "000", description = "000" }
+sound{ id = "001", description = "001" }
+sound{ id = "002", description = "002" }
+sound{ id = "003", description = "003" }
+sound{ id = "004", description = "004" }
+sound{ id = "005", description = "005" }
+sound{ id = "006", description = "006" }
+sound{ id = "007", description = "007" }
+sound{ id = "008", description = "008" }
+sound{ id = "009", description = "009" }
+sound{ id = "010", description = "010" }
+sound{ id = "011", description = "011" }
+sound{ id = "012", description = "012" }
+sound{ id = "013", description = "013" }
+sound{ id = "014", description = "014" }
+sound{ id = "015", description = "015" }
+sound{ id = "016", description = "016" }
+sound{ id = "017", description = "017" }
+sound{ id = "018", description = "018" }
+sound{ id = "019", description = "019" }
+sound{ id = "020", description = "020" }
+sound{ id = "021", description = "021" }
+sound{ id = "022", description = "022" }
+sound{ id = "023", description = "023" }
+sound{ id = "024", description = "024" }
+sound{ id = "025", description = "025" }
+sound{ id = "026", description = "026" }
+sound{ id = "027", description = "027" }
+sound{ id = "028", description = "028" }
+sound{ id = "029", description = "029" }
+sound{ id = "030", description = "030" }
+sound{ id = "031", description = "031" }
+sound{ id = "032", description = "032" }
+sound{ id = "033", description = "033" }
+sound{ id = "034", description = "034" }
+sound{ id = "035", description = "035" }
+sound{ id = "036", description = "036" }
+sound{ id = "037", description = "037" }
+sound{ id = "038", description = "038" }
+sound{ id = "039", description = "039" }
+sound{ id = "040", description = "040" }
+sound{ id = "041", description = "041" }
+sound{ id = "042", description = "042" }
+sound{ id = "043", description = "043" }
+sound{ id = "044", description = "044" }
+sound{ id = "045", description = "045" }
+sound{ id = "046", description = "046" }
+sound{ id = "047", description = "047" }
+sound{ id = "048", description = "048" }
+sound{ id = "049", description = "049" }
+sound{ id = "050", description = "050" }
+sound{ id = "051", description = "051" }
+sound{ id = "052", description = "052" }
+sound{ id = "053", description = "053" }
+sound{ id = "054", description = "054" }
+sound{ id = "055", description = "055" }
+sound{ id = "056", description = "056" }
+sound{ id = "057", description = "057" }
+sound{ id = "058", description = "058" }
+sound{ id = "059", description = "059" }
+sound{ id = "060", description = "060" }
+sound{ id = "061", description = "061" }
+sound{ id = "062", description = "062" }
+sound{ id = "063", description = "063" }
+sound{ id = "064", description = "064" }
+sound{ id = "065", description = "065" }
+sound{ id = "066", description = "066" }
+sound{ id = "067", description = "067" }
+sound{ id = "068", description = "068" }
+sound{ id = "069", description = "069" }
+sound{ id = "070", description = "070" }
+sound{ id = "071", description = "071" }
+sound{ id = "072", description = "072" }
+sound{ id = "073", description = "073" }
+sound{ id = "074", description = "074" }
+sound{ id = "075", description = "075" }
+sound{ id = "076", description = "076" }
+sound{ id = "077", description = "077" }
+sound{ id = "078", description = "078" }
+sound{ id = "079", description = "079" }
+sound{ id = "080", description = "080" }
+sound{ id = "081", description = "081" }
+sound{ id = "082", description = "082" }
+sound{ id = "083", description = "083" }
+sound{ id = "084", description = "084" }
+sound{ id = "085", description = "085" }
+sound{ id = "086", description = "086" }
+sound{ id = "087", description = "087" }
+sound{ id = "088", description = "088" }
+sound{ id = "089", description = "089" }
+sound{ id = "090", description = "090" }
+sound{ id = "091", description = "091" }
+sound{ id = "092", description = "092" }
+sound{ id = "093", description = "093" }
+sound{ id = "094", description = "094" }
+sound{ id = "095", description = "095" }
+sound{ id = "096", description = "096" }
+sound{ id = "097", description = "097" }
+sound{ id = "098", description = "098" }
+sound{ id = "099", description = "099" }
+sound{ id = "100", description = "100" }
+sound{ id = "101", description = "101" }
+sound{ id = "102", description = "102" }
+sound{ id = "103", description = "103" }
+sound{ id = "104", description = "104" }
+sound{ id = "105", description = "105" }
+sound{ id = "106", description = "106" }
+sound{ id = "107", description = "107" }
+sound{ id = "108", description = "108" }
+sound{ id = "109", description = "109" }
+sound{ id = "110", description = "110" }
+sound{ id = "111", description = "111" }
+sound{ id = "112", description = "112" }
+sound{ id = "113", description = "113" }
+sound{ id = "114", description = "114" }
+sound{ id = "115", description = "115" }
+sound{ id = "116", description = "116" }
+sound{ id = "117", description = "117" }
+sound{ id = "118", description = "118" }
+sound{ id = "119", description = "119" }
+sound{ id = "120", description = "120" }
+sound{ id = "121", description = "121" }
+sound{ id = "122", description = "122" }
+sound{ id = "123", description = "123" }
+sound{ id = "124", description = "124" }
+sound{ id = "125", description = "125" }
+sound{ id = "126", description = "126" }
+sound{ id = "127", description = "127" }
+sound{ id = "128", description = "128" }
+sound{ id = "129", description = "129" }
+sound{ id = "130", description = "130" }
+sound{ id = "131", description = "131" }
+sound{ id = "132", description = "132" }
+sound{ id = "133", description = "133" }
+sound{ id = "134", description = "134" }
+sound{ id = "135", description = "135" }
+sound{ id = "136", description = "136" }
+sound{ id = "137", description = "137" }
+sound{ id = "138", description = "138" }
+sound{ id = "139", description = "139" }
+sound{ id = "140", description = "140" }
+sound{ id = "141", description = "141" }
+sound{ id = "142", description = "142" }
+sound{ id = "143", description = "143" }
+sound{ id = "144", description = "144" }
+sound{ id = "145", description = "145" }
+sound{ id = "146", description = "146" }
+sound{ id = "147", description = "147" }
+sound{ id = "148", description = "148" }
+sound{ id = "149", description = "149" }
+sound{ id = "150", description = "150" }
+sound{ id = "151", description = "151" }
+sound{ id = "152", description = "152" }
+sound{ id = "153", description = "153" }
+sound{ id = "154", description = "154" }
+sound{ id = "155", description = "155" }
+sound{ id = "156", description = "156" }
+sound{ id = "157", description = "157" }
+sound{ id = "158", description = "158" }
+sound{ id = "159", description = "159" }
+sound{ id = "160", description = "160" }
+sound{ id = "161", description = "161" }
+sound{ id = "162", description = "162" }
+sound{ id = "163", description = "163" }
+sound{ id = "164", description = "164" }
+sound{ id = "165", description = "165" }
+sound{ id = "166", description = "166" }
+sound{ id = "167", description = "167" }
+sound{ id = "168", description = "168" }
+sound{ id = "169", description = "169" }
+sound{ id = "170", description = "170" }
+sound{ id = "171", description = "171" }
+sound{ id = "172", description = "172" }
+sound{ id = "173", description = "173" }
+sound{ id = "174", description = "174" }
+sound{ id = "175", description = "175" }
+sound{ id = "176", description = "176" }
+sound{ id = "177", description = "177" }
+sound{ id = "178", description = "178" }
+sound{ id = "179", description = "179" }
+sound{ id = "180", description = "180" }
+sound{ id = "181", description = "181" }
+sound{ id = "182", description = "182" }
+sound{ id = "183", description = "183" }
+sound{ id = "184", description = "184" }
+sound{ id = "185", description = "185" }
+sound{ id = "186", description = "186" }
+sound{ id = "187", description = "187" }
+sound{ id = "188", description = "188" }
+sound{ id = "189", description = "189" }
+sound{ id = "190", description = "190" }
+sound{ id = "191", description = "191" }
+sound{ id = "192", description = "192" }
+sound{ id = "193", description = "193" }
+sound{ id = "194", description = "194" }
+sound{ id = "195", description = "195" }
+sound{ id = "196", description = "196" }
+sound{ id = "197", description = "197" }
+sound{ id = "198", description = "198" }
+sound{ id = "199", description = "199" }
+sound{ id = "200", description = "200" }
+sound{ id = "201", description = "201" }
+sound{ id = "202", description = "202" }
+sound{ id = "203", description = "203" }
+sound{ id = "204", description = "204" }
+sound{ id = "205", description = "205" }
+sound{ id = "206", description = "206" }
+sound{ id = "207", description = "207" }
+sound{ id = "208", description = "208" }
+sound{ id = "209", description = "209" }
+sound{ id = "210", description = "210" }
+sound{ id = "211", description = "211" }
+sound{ id = "212", description = "212" }
+sound{ id = "213", description = "213" }
+sound{ id = "214", description = "214" }
+sound{ id = "215", description = "215" }
+sound{ id = "216", description = "216" }
+sound{ id = "217", description = "217" }
+sound{ id = "218", description = "218" }
+sound{ id = "219", description = "219" }
+sound{ id = "220", description = "220" }
+sound{ id = "221", description = "221" }
+sound{ id = "222", description = "222" }
+sound{ id = "223", description = "223" }
+sound{ id = "224", description = "224" }
+sound{ id = "225", description = "225" }
+sound{ id = "226", description = "226" }
+sound{ id = "227", description = "227" }
+sound{ id = "228", description = "228" }
+sound{ id = "229", description = "229" }
+sound{ id = "230", description = "230" }
+sound{ id = "231", description = "231" }
+sound{ id = "232", description = "232" }
+sound{ id = "233", description = "233" }
+sound{ id = "234", description = "234" }
+sound{ id = "235", description = "235" }
+sound{ id = "236", description = "236" }
+sound{ id = "237", description = "237" }
+sound{ id = "238", description = "238" }
+sound{ id = "239", description = "239" }
+sound{ id = "240", description = "240" }
+sound{ id = "241", description = "241" }
+sound{ id = "242", description = "242" }
+sound{ id = "243", description = "243" }
+sound{ id = "244", description = "244" }
+sound{ id = "245", description = "245" }
+sound{ id = "246", description = "246" }
+sound{ id = "247", description = "247" }
+sound{ id = "248", description = "248" }
+sound{ id = "249", description = "249" }
+sound{ id = "250", description = "250" }
+sound{ id = "251", description = "251" }
+sound{ id = "252", description = "252" }
+sound{ id = "253", description = "253" }
+sound{ id = "254", description = "254" }
+sound{ id = "255", description = "255" }
+sound{ id = "256", description = "256" }
+sound{ id = "257", description = "257" }
+sound{ id = "258", description = "258" }
+sound{ id = "259", description = "259" }
+sound{ id = "260", description = "260" }
+sound{ id = "261", description = "261" }
+sound{ id = "262", description = "262" }
+sound{ id = "263", description = "263" }
+sound{ id = "264", description = "264" }
+sound{ id = "265", description = "265" }
+sound{ id = "266", description = "266" }
+sound{ id = "267", description = "267" }
+sound{ id = "268", description = "268" }
+sound{ id = "269", description = "269" }
+sound{ id = "arrow_hit", description = "arrow_hit" }
+sound{ id = "boomerang", description = "boomerang" }
+sound{ id = "boss_hurt", description = "boss_hurt" }
+sound{ id = "boss_killed", description = "boss_killed" }
+sound{ id = "bow", description = "bow" }
+sound{ id = "bush", description = "bush" }
+sound{ id = "cane", description = "cane" }
+sound{ id = "chest_open", description = "chest_open" }
+sound{ id = "door_closed", description = "door_closed" }
+sound{ id = "door_open", description = "door_open" }
+sound{ id = "door_unlocked", description = "door_unlocked" }
+sound{ id = "enemy_hurt", description = "enemy_hurt" }
+sound{ id = "enemy_killed", description = "enemy_killed" }
+sound{ id = "explosion", description = "explosion" }
+sound{ id = "hero_falls", description = "hero_falls" }
+sound{ id = "hero_hurt", description = "hero_hurt" }
+sound{ id = "hero_lands", description = "hero_lands" }
+sound{ id = "hero_pushes", description = "hero_pushes" }
+sound{ id = "hookshot", description = "hookshot" }
+sound{ id = "jump", description = "jump" }
+sound{ id = "lift", description = "lift" }
+sound{ id = "message_end", description = "message_end" }
+sound{ id = "monster_hurt", description = "monster_hurt" }
+sound{ id = "picked_item", description = "picked_item" }
+sound{ id = "running", description = "running" }
+sound{ id = "running_obstacle", description = "running_obstacle" }
+sound{ id = "shield", description = "shield" }
+sound{ id = "splash", description = "splash" }
+sound{ id = "stairs_down_end", description = "stairs_down_end" }
+sound{ id = "stairs_down_start", description = "stairs_down_start" }
+sound{ id = "stairs_up_end", description = "stairs_up_end" }
+sound{ id = "stairs_up_start", description = "stairs_up_start" }
+sound{ id = "stone", description = "stone" }
+sound{ id = "switch", description = "switch" }
+sound{ id = "sword1", description = "sword1" }
+sound{ id = "sword_spin_attack_load", description = "sword_spin_attack_load" }
+sound{ id = "sword_spin_attack_release", description = "sword_spin_attack_release" }
+sound{ id = "sword_tapping", description = "sword_tapping" }
+sound{ id = "sword_tapping_weak_wall", description = "sword_tapping_weak_wall" }
+sound{ id = "throw", description = "throw" }
+sound{ id = "timer", description = "timer" }
+sound{ id = "timer_hurry", description = "timer_hurry" }
+sound{ id = "treasure", description = "treasure" }
+sound{ id = "victory", description = "victory" }
+sound{ id = "walk_on_grass", description = "walk_on_grass" }
+sound{ id = "walk_on_water", description = "walk_on_water" }
+sound{ id = "wrong", description = "wrong" }
+
+
+
+
+language{ id = "en", description = "English" }
+
+font{ id = "minish_blue", description = "minish_blue" }
+font{ id = "minish_bold", description = "minish_bold" }
+font{ id = "minish_green", description = "minish_green" }
+font{ id = "minish_red", description = "minish_red" }
+font{ id = "minish_white", description = "minish_white" }
+font{ id = "rupee", description = "rupee" }
+
+
